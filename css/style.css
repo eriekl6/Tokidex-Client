@@ -1,0 +1,50 @@
+
+.button {
+    -fx-background-color: rgba(218, 162, 232, 0.5);
+    -fx-background-radius: 10;
+    -fx-font: 18 Monospaced;
+    -fx-text-fill: #483d8d;
+}
+
+.combobox {
+    -fx-background-color: rgba(218, 162, 232, 0.5);
+    -fx-background-radius: 10;
+}
+
+.title-label {
+    -fx-text-fill: #483d8d;
+    -fx-font: bold 40 Monospaced;
+}
+
+.label {
+    -fx-font: 16 Monospaced;
+}
+
+.label-small {
+    -fx-font: 12 Monospaced;
+    -fx-text-alignment: center;
+}
+
+.text-field {
+    -fx-font: 16 Monospaced;
+    -fx-background-color: rgba(218, 162, 232, 0.5);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 5 ;
+}
+
+.color-picker .color-picker-label .text {
+    -fx-fill: null;
+    -fx-stroke: null;
+}
+
+.color-picker {
+    -fx-background-color: rgba(218, 162, 232, 0.5);
+    -fx-background-radius: 5 ;
+}
+
+.dropdown {
+    -fx-background-color: rgba(218, 162, 232, 0.5);
+    -fx-font: 16 Monospaced;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 5 ;
+}
